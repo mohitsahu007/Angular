@@ -1,7 +1,10 @@
-Motivation
+# Spark
+
+
+## Motivation
 This project was created for demonstrating my Angular skills, the Jobs API was provided by BYJU's.
 
-Technologies Used
+## Technologies Used
 Angular 8
 Typescript
 HTML5 & SCSS
@@ -40,15 +43,15 @@ if (!this.dataFetchSvc.bookmarkContent[trackId]) {
 this.dataFetchSvc.bookmarkContent[trackId] = !this.dataFetchSvc
   .bookmarkContent[trackId];
 }
-How to use ?
+##How to use ?
 Download the zip file or clone the project.
 
-Installing
+##Installing
 Run npm install to install the necessary dependencies.
 Run ng serve -o in the terminal to run the project.
 Prerequisites
 An active internet connection.
 Node JS.
 Modern Browser such as Edge, Chrome, Safari, Firefox.
-Credits
-© Mohit Kumar| 2020
+##Credits
+©## Mohit Kumar| 2020
