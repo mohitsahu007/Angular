@@ -1,0 +1,42 @@
+.toolbar {
+    h1 {
+      font-size: 32px;
+    }
+    //added mat icon size
+    mat-icon{
+        font-size: 32px;
+        transition: 0.75s ease-in;
+        height: 32px;
+        width: 32px;
+        color:red;
+
+        
+    }
+    
+    mat-icon:hover{
+        transition: 0.75s ease-in;
+        transform: rotate(360deg);
+        cursor: pointer;
+    }
+    
+  }
+  h1:hover{
+    //on hover size changes of text under h1 tag
+            transform: scale(1.15);
+            cursor: pointer;
+            transition: 0.15s ease-in;
+            
+            
+        }
+  mat-toolbar {
+    background: rgba(20, 20, 20, 0.555);
+    justify-content: space-between;
+    display: flex;
+  }
+  .about:hover{
+    transform: scale(1.15);
+            cursor: pointer;
+            transition: 0.15s ease-in;
+            border-bottom:4px ridge seashell;
+  }
+  
