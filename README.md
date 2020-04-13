@@ -11,9 +11,9 @@
 
 ## Features
 
--> Clean and simple user interface.
--> Users can easily search for contents and find information about them.
--> Users can explore different categories with up to date information.
+-> 1.Clean and simple user interface.
+-> 2.Users can easily search for contents and find information about them.
+-> 3.Users can explore different categories with up to date information.
 
 ## Code Example
 
