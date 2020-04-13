@@ -8,11 +8,15 @@ This project was created for demonstrating my Angular skills, the Jobs API was p
 Angular 8
 Typescript
 HTML5 & SCSS
-Features
+
+## Features
+
 Clean and simple user interface.
 Users can easily search for contents and find information about them.
 Users can explore different categories with up to date information.
-Code Example
+
+## Code Example
+
 Adds / removes the selected track from the user's personalized list.
 
 bookmark(trackId: number, track?: ITracks) {
@@ -43,15 +47,20 @@ if (!this.dataFetchSvc.bookmarkContent[trackId]) {
 this.dataFetchSvc.bookmarkContent[trackId] = !this.dataFetchSvc
   .bookmarkContent[trackId];
 }
-##How to use ?
+
+## How to use ?
+
 Download the zip file or clone the project.
 
-##Installing
+## Installing
+
 Run npm install to install the necessary dependencies.
 Run ng serve -o in the terminal to run the project.
 Prerequisites
 An active internet connection.
 Node JS.
 Modern Browser such as Edge, Chrome, Safari, Firefox.
-##Credits
-©## Mohit Kumar| 2020
+
+## Credits
+
+## ©Mohit Kumar| 2020
