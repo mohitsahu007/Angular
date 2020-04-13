@@ -2,18 +2,18 @@
 
 
 ## Motivation
-This project was created for demonstrating my Angular skills, the Jobs API was provided by BYJU's.
+-> This project was created for demonstrating my Angular skills, the Jobs API was provided by BYJU's.
 
 ## Technologies Used
-Angular 8
-Typescript
-HTML5 & SCSS
+1. Angular 8
+2. Typescript
+3. HTML5 & SCSS
 
 ## Features
 
-Clean and simple user interface.
-Users can easily search for contents and find information about them.
-Users can explore different categories with up to date information.
+-> Clean and simple user interface.
+-> Users can easily search for contents and find information about them.
+-> Users can explore different categories with up to date information.
 
 ## Code Example
 
@@ -50,17 +50,18 @@ this.dataFetchSvc.bookmarkContent[trackId] = !this.dataFetchSvc
 
 ## How to use ?
 
-Download the zip file or clone the project.
+-> Download the zip file or clone the project.
 
 ## Installing
 
-Run npm install to install the necessary dependencies.
-Run ng serve -o in the terminal to run the project.
-Prerequisites
-An active internet connection.
-Node JS.
-Modern Browser such as Edge, Chrome, Safari, Firefox.
+-> Run npm install to install the necessary dependencies.
+-> Run ng serve -o in the terminal to run the project.
+
+## Prerequisites
+-> An active internet connection.
+-> Node JS.
+-> Modern Browser such as Edge, Chrome, Safari, Firefox.
 
 ## Credits
 
-## ©Mohit Kumar| 2020
+# ©Mohit Kumar| 2020
